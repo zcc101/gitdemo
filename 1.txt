@@ -1,1 +1,4 @@
 123124134
+git init
+git add 1.txt
+git commit -m "xxx"
